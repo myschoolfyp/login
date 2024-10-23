@@ -1,19 +1,18 @@
-# Creating Login Form (only frontend)
+# Login Form
 
-You can use below link to know how to create this app
+## Overview
 
-https://available-soon
+This project features a **Login Form** built with **Next.js** and **React**. It allows users to log in by entering their credentials and selecting their role. This form can be easily integrated into larger applications.
 
-**If you face any error after doing below steps, then please update current version of your installed NodeJS software.**
+## Features
 
-**How to Run:**
+- Role selection dropdown.
+- Input fields for email and password.
+- Submit button to log in.
 
-- Open VS code terminal and type command
+## Technologies Used
 
-      npm install
+- **Next.js**: For server-side rendering and routing.
+- **React**: For building the UI components.
+- **Tailwind CSS**: For responsive styling.
 
-- Above command will install all neccessary packages and create node_modules folder in your downloaded code.
-
-- Now run below command to run this app
-
-      npm run dev
